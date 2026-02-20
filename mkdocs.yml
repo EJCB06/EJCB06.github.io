@@ -4,5 +4,6 @@ nav:
     - Principal: index.md
     - Acerca de: about.md
     - Practica 1: practica.md
+    - Practica 2: practica2.md
 
 theme: material
