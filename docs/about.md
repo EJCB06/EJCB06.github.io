@@ -1,6 +1,6 @@
 # Acerca de este proyecto
 
-¡Hola! Soy **[Edwin Javier]**, estudiante del ciclo de Informática, y este es mi portafolio de prácticas documentadas.
+¡Hola! Soy **Edwin Javier**, estudiante del ciclo de Informática, y este es mi portafolio de prácticas documentadas.
 
 Esta página web ha sido creada como parte del módulo de **Implantación de Aplicaciones Web (IAW)** durante el curso **2025/2026**.
 

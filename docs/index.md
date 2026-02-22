@@ -9,7 +9,9 @@ Aquí encontrarás documentado paso a paso todo el proceso de instalación, conf
 En el menú de navegación tienes acceso a todas las prácticas. Por ahora destacamos:
 
 * **[Práctica 1 - Pila LAMP](practica.md):** Automatización y despliegue de un servidor Linux con Apache, MySQL y PHP, incluyendo herramientas pro como **phpMyAdmin**, **Adminer** y monitorización en tiempo real con **GoAccess**.
-* *(Próximamente más cositas...)*
+* **[Práctica 2 - Securización de Apache](practica2.md):** Creación de certificado para la securización de Apache2 con herramientas como **Apache2** y creación de certificación SSL con **OpenSSL**
+* **(*Proximamente más cositas ...*)**
+
 
 ## Sobre esta documentación
 
